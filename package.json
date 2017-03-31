@@ -1,4 +1,13 @@
 {
+  "name": "angular2-poc",
+  "version": "1.0.0",
+  "description": "A small Angular 2 app bootstrapped with fountain-webapp",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/duffbuster/angular2-poc.git"
+  },
+  "author": "Colin Mackey",
+  "license": "MIT",
   "dependencies": {
     "@angular/core": "^2.4.8",
     "@angular/compiler": "^2.4.8",
