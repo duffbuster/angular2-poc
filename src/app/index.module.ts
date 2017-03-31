@@ -1,6 +1,6 @@
 import { RootComponent, routing } from './routes';
 import { BrowserModule } from '@angular/platform-browser';
-import { HelloComponent } from './hello';
+import { HelloComponent } from './hello.component';
 import { NgModule } from '@angular/core';
 
 
