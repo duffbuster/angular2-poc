@@ -22,7 +22,7 @@
     "handle-callback-err": true,
     "array-bracket-spacing": [ true, "always", { "objectsInArrays": false } ],
     "block-spacing": true,
-    "brace-style": true,
+    "brace-style": [ true, "1tbs" ],
     "ter-indent": [ true, 2 ],
     "ter-max-len": [ true, 100 ],
     "object-curly-spacing": [true, "always"],

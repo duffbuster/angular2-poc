@@ -1,14 +1,10 @@
-import 'core-js/client/shim';
-import 'zone.js/dist/zone';
-
+import './index.scss';
 import '@angular/common';
 import 'rxjs';
-
-import './index.scss';
-
-import {enableProdMode} from '@angular/core';
-import {platformBrowserDynamic} from '@angular/platform-browser-dynamic';
-import {AppModule} from './app';
+import 'zone.js/dist/zone';
+import { AppModule } from './app';
+import { enableProdMode } from '@angular/core';
+import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
 
 declare var process: any;
 if (process.env.NODE_ENV === 'production') {
