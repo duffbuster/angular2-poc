@@ -1,8 +1,8 @@
-import './index.scss';
+import './styles/index.scss';
 import '@angular/common';
 import 'rxjs';
 import 'zone.js/dist/zone';
-import { AppModule } from './app';
+import { AppModule } from './app/index.module';
 import { enableProdMode } from '@angular/core';
 import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
 

@@ -85,10 +85,8 @@
     "semicolon": [true],
     "triple-equals": [true, "allow-null-check"],
     "typedef": [true,
-      "call-signature",
       "parameter",
-      "property-declaration",
-      "arrow-parameter"
+      "property-declaration"
     ],
     "typedef-whitespace": [true, {
       "call-signature": "nospace",
