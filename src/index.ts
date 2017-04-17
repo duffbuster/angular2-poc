@@ -1,5 +1,6 @@
 import './styles/index.scss';
 import '@angular/common';
+import 'reflect-metadata';
 import 'rxjs';
 import 'zone.js/dist/zone';
 import { AppModule } from './app/index.module';
